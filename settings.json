@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot nezabijet",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ZadniCerni.aternos.me",
     "port": 43509,
-    "version": "",
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
