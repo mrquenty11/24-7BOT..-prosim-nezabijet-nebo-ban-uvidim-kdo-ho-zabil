@@ -27,12 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 9999,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 999999,
       "messages": [
-        "Ahoj, nezabijej mě",
-      ]
+        "Ahoj nezabijej me",]
     },
     "chat-log": true,
     "auto-reconnect": true,
