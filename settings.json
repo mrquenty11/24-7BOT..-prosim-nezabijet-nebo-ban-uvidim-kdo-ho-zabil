@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 999999,
       "messages": [
-        "Ahoj nezabijej me",]
+        "Ahoj nezabijej me"]
     },
     "chat-log": true,
     "auto-reconnect": true,
