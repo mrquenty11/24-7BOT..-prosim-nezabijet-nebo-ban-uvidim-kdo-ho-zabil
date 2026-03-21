@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 4,
+    "x": 6,
     "y": 72,
-    "z": 5
+    "z": 7
   },
   "utils": {
     "auto-auth": {
@@ -28,8 +28,8 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
-      "repeat-delay": 999999,
+      "repeat": false,
+      "repeat-delay": 999,
       "messages": [
         "Ahoj nezabijej me"
      ]
