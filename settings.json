@@ -27,12 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 9999,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Ahoj, nezabijej mě",
       ]
     },
     "chat-log": true,
